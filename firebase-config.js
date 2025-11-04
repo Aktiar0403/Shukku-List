@@ -5,12 +5,13 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.2/firebas
 import { getAuth } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyArChDRFsV9V-PmpDdhYxB3FnqN69RVnAI",
+  authDomain: "shukku-list.firebaseapp.com",
+  projectId: "shukku-list",
+  storageBucket: "shukku-list.firebasestorage.app",
+  messagingSenderId: "11625002783",
+  appId: "1:11625002783:web:8776c517ff9bc4d266222a",
+  measurementId: "G-7SW8GVLQ90"
 };
 
 const app = initializeApp(firebaseConfig);
