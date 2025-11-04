@@ -1,0 +1,9 @@
+{
+  "name": "Shukku List",
+  "short_name": "Shukku",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": []
+}
